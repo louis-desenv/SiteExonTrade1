@@ -1,0 +1,1041 @@
+@media only screen and (max-width: 1880px){
+    .service-seven-content{
+        padding: 50px;
+    }
+    .company-about .image-colmun{
+        margin-left: 100px;
+        margin-right: 50px;
+    }
+    .company-about .content-colmun{
+        margin-right: 0;
+    }
+    .company-about .shape-eight{
+        right: -200px;
+    }
+    .project-block-one .content-box,
+    .project-block-one .overley-content{
+        padding: 30px 20px;
+    }
+    .video-section .video-content{
+        padding: 100px 50px;
+    }
+    .main-footer.home-seven .shape-forklift img{
+        width: 85%;
+    }
+}
+@media only screen and (max-width: 1750px){
+    .quote-section .shape-image{
+        display: none;
+    }
+    .quote-section .quote-content{
+        max-width: 100%;
+    }
+    .our-specialties .shape-nine{
+        display: none;
+    }
+    .our-specialties{
+        padding-bottom: 120px;
+    }
+    .service-seven-block:hover .inner-text{
+        padding: 20px 30px;
+        border-radius: 0;
+    }
+    .main-footer.home-seven .shape-forklift img{
+        width: 70%;
+    }
+}
+@media only screen and (max-width: 1600px){
+    .cta-left-image{
+        width: calc(50% - 200px);
+    }
+    .cta-right-content{
+        display: block;
+        width: calc(50% + 200px);
+        padding: 80px 40px 80px 120px;
+    }
+    .cta-right-content .title-box{
+        margin-bottom: 30px;
+    }
+    .service-seven .service-seven-inner,
+    .service-seven-content{
+        width: 100%;
+    }
+    .service-section .owl-nav{
+        display: none;
+    }
+    .company-about .shape-seven,
+    .company-about .shape-eight{
+        display: none;
+    }
+    .company-about .image-colmun{
+        margin-left: 0px;
+        margin-right: 100px;
+    }
+    .time-traking-box{
+        margin-right: 0;
+    }
+    .why-choose-us-section .shape-three{
+        width: 250px;
+    }
+    .how-to-work-section-two .shape-three img{
+        width: 250px;
+        max-width: 100%;
+        float: none;
+    }
+    .service-section{
+        padding: 100px 0px;
+    }
+    .service-section .service-text,
+    .service-section .service-image{
+        width: 50%;
+        max-width: 100%;
+    }
+    .company-about .image-colmun{
+        margin-left: 100px;
+        margin-right: 50px;
+    }
+    .service-home-three .service-border-top{
+        border-top: none;
+    }
+    .service-block-003 .border-right,
+    .service-block-003 .border-left{
+        display: none;
+    }
+    .service-block-003 .image-box{
+        margin-top: 0px;
+        width: 100%;
+    }
+    .featured-section .shape{
+        display: none;
+    }
+    .featured-tab .tab-buttons .tab-btn{
+        margin: 10px;
+        text-align: center;
+    }
+    .featured-tab .tab-buttons {
+        text-align: left;
+    }
+    .testimonial-style-seven .content-title{
+        margin-left: 0px;
+    }
+    .testimonial-seven-area .testimonial-left-minus{
+        margin-left: 0;
+    }
+    .testimonial-seven-area .testimonial-block-six .inner-box{
+        max-width: 100%;
+    }
+    .main-footer.home-seven .shape-forklift{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1399px){    
+    .company-about .image-colmun{
+        margin: 0;
+    }
+    .why-choose-us-section .shape-four{
+        transform: inherit !important;
+        bottom: 60px;
+        left: 20px;
+    }
+    .project-widget .wrapper-box .image{
+        width: 30%;
+    }
+    .service-block-001 .show-content .text-area,
+    .service-block-001 .hidden-content .text-area{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .cta-001 .cta-inner .title-box i{
+        margin-right: 30px;
+    }
+    .tab-buttons .tab-btn{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .tab-buttons .tab-btn .icon-one{
+        margin-right: 10px;
+    }
+    .work-block-one .border-shape,
+    .work-block-one .border-shape-1,
+    .work-block-one .border-shape-2{
+        display: none;
+    }
+    .work-block-one .border-shape:after,
+    .work-block-one .border-shape:before{
+        display: none;
+    }
+    .colmun:nth-child(2) .work-block-one{
+        margin-left: 0;
+    }
+    .colmun:nth-child(3) .work-block-one{
+        margin-left: 0;
+    }
+    .colmun:nth-child(4) .work-block-one{
+        margin-left: 0;
+    }
+    .about-image-colmun{
+        padding-right: 40px;
+    }   
+    .about-image-colmun .shape-01{
+        display: none;
+    }
+    .feature-block-one{
+        padding: 50px 20px;
+    }
+    .feature-block-three{
+        padding: 50px 20px;
+    }
+    .quote-section .right-side{
+        padding: 130px 70px;
+    }
+    .service-002 .shape-seven,
+    .service-002 .shape-six,
+    .service-002 .shape-five{
+        display: none;
+    }
+    .project-block-one{
+        padding: 5px;
+    }
+    .individual-approach .approach-image{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .individual-approach .section-title{
+        padding-top: 0;
+    }    
+    .freight-tab-section .tabs-box{
+        display: inline-block;
+        border-top: none;
+    }
+    .freight-tab-section .tabs-box .tab-buttons{
+        max-width: 100%;
+        border: none;
+    }
+    .freight-tab-section .tabs-box .tab-buttons .tab-btn{
+        border: 1px solid #ededed;
+        width: auto;
+        margin-right: 10px;
+        padding-right: 40px;
+        padding-left: 100px;
+    }
+    .freight-tab-section .tabs-box .tab-buttons .tab-btn:last-child{
+        margin-right: 0;
+    }
+    .freight-tab-section .tabs-box .tab-buttons .tab-btn i{
+        left: 40px;
+    }
+    .freight-tab-section .tabs-box .tabs-content{
+        padding: 0;
+    }
+    .team-block-two .inner-box .image-box{
+        margin-right: 20px;
+    }
+    .video-section .video-content h4 br{
+        display: none;
+    }
+    .featured-tab .tab-buttons .tab-btn{
+        margin: 10px 5px;
+        padding: 15px 10px;
+        max-width: 180px;
+    }
+    .service-seven-content{
+        padding-top: 80px;
+    }
+    .how-to-work-section .shape-two{
+        width: 400px;
+    }
+    .why-choose-us-section .shape-four{
+        width: 500px;
+    }
+    .our-features .feature-block-three{
+        padding: 72px 60px;
+    }
+    .about-content-colmun .featured-button{
+        max-width: 300px;
+    }
+}
+@media only screen and (max-width: 1280px){
+    .social-midea li{
+        margin-left: 15px;
+    }
+    .contact-info-two li a br{
+        display: none;
+    }
+    .service-block-004 .lower-content .text br{
+        display: none;
+    }
+    .provide-service-left{
+        margin-right: 0;
+    }
+    .time-traking-box{
+        padding: 60px 40px;
+    }
+    .time-traking-box h4 br{
+        display: none;
+    }
+    .team-block-one .content-box{
+        padding: 30px;
+    }
+    .faq-section .faq-image{
+        margin-left: 50px;
+    }
+    .our-features .feature-block-three{
+        padding: 72px 25px;
+    }   
+}
+@media only screen and (max-width: 1200px){
+    .feature-block-two{
+        margin-right: 0px;
+    }
+    .feature-block{
+        margin-right: 9px;
+    }
+    .company-about.about-page .shape{
+        width: 60%;
+    }
+    .about-content-colmun .featured-button{
+        max-width: 275px;
+        margin-right: 5px;
+        padding: 30px 15px;
+    }
+    .featured-tab .tab-buttons .tab-btn{
+        margin: 10px 0px;
+    }
+    .featured-tab .mission-image{
+        width: 42%;
+    }
+    .sidebar-widget{
+        padding: 45px 20px;
+    }
+    .why-choose-us-section .inner-page .tab-buttons{
+        margin: 0px -10px;
+    }
+}
+@media only screen and (max-width: 1199px){
+    .tracking-tab-section .tabs-content .mt_35{
+        margin-top: 0px;
+    }
+    .company-about .content-colmun{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .cta-right-content {
+        padding: 60px 40px 60px 90px;
+    }
+    .cta-right-content h4 br{
+        display: none;
+    }
+    .company-about .image-colmun{
+        margin: 0;
+        padding-top: 80px;
+    }
+    .company-about .section-title .title-text{
+        max-width: 700px;
+        margin-bottom: 40px;
+    }
+    .cta-001 .cta-inner{
+        display: block;
+        text-align: center;
+    }
+    .cta-001 .cta-inner .title-box{
+        display: inline-block;
+        margin-bottom: 30px;
+    }
+    .cta-001 .shape-six{
+        top: 100px;
+    }
+    .why-choose-us-section .tab-buttons{
+        max-width: 100%;
+    }
+    .why-choose-us-section .tab-buttons .tab-btn {
+        display: inline-flex;
+        padding: 33px 70px;
+        margin-right: 10px;
+        padding-left: 30px;
+    }
+    .service-section .service-text .hide-icon{
+        display: none;
+    }
+    .service-section .service-slide{
+        display: block;
+    }
+    .service-section .service-text{
+        padding-top: 80px;
+        width: 100%;
+    }
+    .service-section .service-image{
+        width: 100%;
+        height: 400px;
+    }
+    .company-about .shape-image{
+        top: 85px;
+        left: 0;
+        right: inherit;
+    }
+    .why-choose-us-section .shape-four{
+        display: none;
+    }
+    .how-to-work-section-two .image-box{
+        display: none;
+    }
+    .quote-section .right-side{
+        width: 100%;
+    }
+    .quote-section .map-shape{
+        display: none;
+    }
+    .team-block-one .content-box,
+    .team-block-one .overley-content{
+        padding: 30px;
+    }
+    .service-block-003{
+        margin-bottom: 50px;
+    }
+    .service-block-003 .image-box{
+        height: auto;
+        margin-bottom: 40px;
+    }
+    .about-section .parallax-scene{
+        display: none;
+    }
+    .about-section.home-three{
+        padding: 50px 0px 100px;
+    }
+    .service-section-four .inner-row{
+        margin: 0px -15px;
+    }
+    .service-section-four .colmun{
+        padding: 0px 15px;
+    }
+    .service-block-004{
+        margin-bottom: 30px;
+    }
+    .provide-service-left{
+        margin-bottom: 50px;
+    }
+    .feature-block-six i{
+        padding-right: 10px;
+    }
+    .video-section .clomun{
+        min-height: 400px;
+    }
+    .premium-service .premium-service-left{
+        padding: 50px 0;
+    }
+    .testimonial-style-six{
+        padding: 100px 0px;  
+    }
+    .premium-service-block .image-box img{
+        width: 100%;
+    }
+    .map-section .tab-buttons .tab-btn{
+        margin-right: 10px;
+        padding-left: 60px;
+    }  
+    .funfact-section{
+        padding: 100px 0;
+    } 
+    .featured-section{
+        padding: 100px 0px;
+    } 
+    .cta-style-three-inner{
+        display: block;
+    }
+    .cta-style-three-inner .cta-image-left{
+        width: 100%;
+        min-height: 400px;
+    }
+    .cta-image-left .image-layer{
+        width: 100%;
+    }
+    .cta-style-three-inner .cta-text-right{
+        width: 100%;
+    }
+    .cta-text-right .text-area{
+        max-width: 100%;
+    }
+    .reliable-service{
+        padding: 100px 0px 70px;
+    }
+    .reliable-service .section-title{
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+    .testimonial-left-image img{
+        max-width: 100%;
+        float: left;
+    }
+    .testimonial-right-content{
+        margin-left: 0;
+        padding: 100px 0;
+    }
+    .testimonial-style-eight .parallax-scene{
+        display: none !important;
+    }
+    .pricing-table{
+        max-width: 1200px;
+        overflow-x: auto;
+    }
+    .pricing-table .pricing-item{
+        min-width: 1200px;
+        width: 100%;
+    }
+    .map-section.home-eight .tab-buttons{
+        position: relative;
+        left: 0;
+        border-top: 1px solid #bdbdbd;
+    } 
+    .individual-approach .section-title{
+        padding-top: 80px;
+    }
+    .faq-section .faq-area{
+        margin-right: 0;
+    }
+    .faq-section .faq-image{
+        margin-left: 0;
+    }
+    .featured-section .featured-image{
+        margin-bottom: 40px;
+    }
+    .testimonial-style-seven .image-box{
+        margin-bottom: 40px;
+    }
+}
+@media only screen and (max-width: 991px){
+    .cta-left-image .icon-box{
+        top: 10px;
+        left: 10px;
+        right: inherit;
+    }
+    .cta-left-image{
+        width: calc(50%);
+    }
+    .cta-right-content {
+        width: calc(50%);
+        padding: 60px 40px;
+    }
+    .cta-right-content h4{
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .main-header .header-outer-box{
+        padding: 15px 20px;
+    }    
+    .how-to-work-section-two .shape-three{
+        display: none;
+    }
+    .about-style-three .about-feature .shape{
+        display: none;
+    }
+    .individual-approach-two .section-title{
+        margin-bottom: 50px;
+    }
+    .faq-section .faq-area{
+        margin-right: 0px;
+        margin-bottom: 50px;
+    }
+    .freight-tab-section .tabs-box .tab-buttons .tab-btn {
+        padding-right: 30px;
+        padding-left: 75px;
+        margin-bottom: 10px;
+    }
+    .company-about.about-page{
+        padding-top: 100px;
+    }
+    .company-about.about-page .image-colmun{
+        padding-top: 0px;
+        margin-right: 0px;
+    }
+    .freight-tab-section .tabs-box .tab-buttons .tab-btn i {
+        left: 15px;
+    }
+    .team-block-two .inner-box .image-box{
+        max-width: 180px;
+    }
+    .service-block-three .author-info{
+        border: none;
+    }
+    .service-block-three .service-image{
+        margin-right: 0px;
+    }
+    .service-block-three {
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+    }
+    .feature-block-six{
+        margin-bottom: 30px;
+    }
+    .feature-block-six i{
+        padding-right: 40px;
+    }
+    .video-section .video-content .hot-fuature{
+        margin-bottom: 30px;
+    }
+    .map-section .tab-buttons{
+        border-bottom: 0px;
+    }
+    .map-section .tab-buttons .tab-btn{
+        width: 48%;
+        margin: 0;
+        text-align: left;
+        display: inline-block;
+        margin-bottom: 20px;
+    }    
+    .service-seven-content .hot-fuature{
+        margin-bottom: 30px;
+    }
+    .service-section-three{
+        padding: 50px 0px;
+    }
+    .section-title.light .title br{
+        display: none;
+    }
+    .company-about.about-page .shape{
+        width: 100%;
+    }
+    .protfolio-text-three p{
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+    .protfolio-text-three .image{
+        margin-left: 0;
+    }
+    .company-feature-section{
+        margin-bottom: 100px;
+    }
+    .featured-section.inner-page{
+        padding: 150px 0px;
+    }
+    .featured-tab .mission-image{
+        width: 25%;
+    }
+    .team-details-image-box{
+        text-align: left;
+        margin-bottom: 40px;
+    }
+    .cta-text-right .text-area{
+        padding: 80px 50px;
+    }
+    .newsletter-popup-image{
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+    .blog-left-side{
+        margin: 100px;
+    }
+    .post-inner .post{
+        padding-top: 20px;
+    }
+    .service-block-three .author-info{
+        margin-bottom: 0px;
+    }
+    .image-box-1{
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .helpus-area{
+        margin-bottom: 40px;
+    }
+}
+@media only screen and (max-width: 767px){
+    .sec-padd-150{
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .section-title .title br{
+        display: none;
+    }
+    .feature-block-three h5 br,
+    .section-title .title-text br{
+        display: none;
+    }
+    .cta-inner-box{
+        display: block;
+    }
+    .cta-left-image{
+        width: 100%;
+        height: 300px;
+    }
+    .cta-right-content {
+        width: 100%;
+    }
+    .why-choose-us-section .tab-buttons .tab-btn{
+        width: 100%;
+    }
+    .how-to-work-section .shape-two,
+    .why-choose-us-section .shape-three,
+    .company-about .shape-image{
+        display: none;
+    }
+    .cta-001 .shape-six,
+    .cta-001 .shape-five{
+        display: none;
+    }
+    .service-block-001 .service-inner{
+        margin: 0;
+    }
+    .service-block-001 .logo-icon{
+        display: none;
+    }
+    .time-traking-box h4 br{
+        display: none;
+    }
+    .time-traking-box h4 span{
+        margin-left: 10px;
+    }
+    .time-traking-box p{
+        margin-left: 0;
+    }
+    .service-block-001 .tag{
+        top: 30px;
+        left: 20px;
+        right: inherit;
+        line-height: 100px;
+    }    
+    .cta-section-002 h4 br{
+        display: none;
+    }
+    .tracking-tab-section .tabs-box{
+        margin-top: 80px;
+    }
+    .tracking-tab-section .tab-buttons li{
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .tracking-tab-section .tabs-content{
+        padding: 50px 20px;
+    }
+    .tracking-tab-section .tabs-box .shape-airplane{
+        display: none;
+    }
+    .feature-section .company-feature{
+        padding-bottom: 100px;
+    }
+    .cta-section-03 h4 br{
+        display: none;
+    }
+    .faq-image .image-one{
+        border: none;
+        margin-bottom: 20px;
+    }
+    .faq-image .image-two{
+        position: relative;
+        border: none;
+        left: 0;
+    }
+    .faq-image .image-two img{
+        width: 100%;
+    }
+    .faq-image{
+        padding-bottom: 0;
+    }
+    .freight-tab-section .tabs-box .tab-buttons .tab-btn{
+        width: 100%;
+    }
+    .about-image-colmun{
+        padding-right: 0;
+    }
+    .hot-service .parallax-scene{
+        display: none !important;
+    }
+    .hot-service-right,
+    .hot-service-left{
+        margin: 0;
+    }
+    .hot-service-left{
+        margin-bottom: 30px;
+    }
+    .quote-section .right-side{
+        padding: 50px 20px;
+    }
+    .feature-block-002{
+        margin-bottom: 30px;
+    }
+    .video-section .video-content{
+        padding: 50px 20px;
+    }
+    .video-section .video-content h4{
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .section-title .title{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .featured-tab .tab-buttons .tab-btn{
+        margin: 0;
+        margin-bottom: 20px;
+        display: block;
+        max-width: 100%;
+        width: 100%;
+    }
+    .featured-tab .misson-content{
+        display: block;
+    }
+    .featured-tab .mission-image{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .featured-tab .mission-text{
+        width: 100%;
+    }
+    .map-section .tab-buttons .tab-btn{
+        width: 100%;
+        display: block;
+    }
+    .office-info-box{
+        position: relative;
+        left: 0;
+        max-width: 100%;
+        padding: 0px 20px 50px;
+    }    
+    .home-seven .header-lower .search-box{
+        display: none;
+    }
+    .service-seven-content h4 br{
+        display: none;
+    }
+    .funfact-section{
+        padding: 0px;
+    }
+    .cta-text-right .text-area{
+        padding: 80px 20px;
+    }
+    .company-about .text-inner{
+        padding: 50px 20px;
+    }
+    .service-block-001 .show-content .text-area, 
+    .service-block-001 .hidden-content .text-area{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .accordion-box .accordion .acc-btn{
+        padding: 20px;
+        padding-right: 40px;
+    }
+    .accordion-box .accordion .acc-content{
+        padding: 20px;
+    }
+    .quote-section .quote-form .row{
+        margin-bottom: 0;
+    }
+    .provide-service-left h3,
+    .hot-service-right h3{
+        font-size: 32px;
+        line-height: 42px;
+    }    
+    .provide-service-right{
+        margin-left: 0;
+    }
+    .map-section .tab-buttons{
+        margin-bottom: 30px;
+    }
+    .office-info-box .widget-title{
+        margin-bottom: 20px;
+    }
+    .contact-info-two li{
+        display: block;
+    }
+    .premium-service-block .content-box{
+        padding: 45px 40px 75px;
+    }
+    .premium-service-slide .owl-dots{
+        left: 40px;
+    }
+    .video-section .shape{
+        display: none;
+    }
+    .service-block-eight .text br{
+        display: none;
+    }
+    .work-block-two .content-box{
+        padding-top: 40px;
+    }
+    .feature-block-area{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .feature-block-area .feature-block-one:before{
+        display: none;
+    }
+    .feature-banner{
+        padding: 50px 30px;
+    }
+    .news-block-one .blog-content{
+        padding-bottom: 30px;
+    }
+}
+@media only screen and (max-width: 650px){
+    .time-traking-box strong{
+        margin-right: 0;
+        display: block;
+        padding-bottom: 10px;
+    }
+    .time-traking-box input{
+        max-width: 100%;
+        margin-bottom: 10px;
+    }
+    .tab-item-content .item{
+        display: block;        
+    }
+    .tab-item-content .item .title,
+    .tab-item-content .item .text,
+    .tab-item-content .item .image{
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+}   
+@media only screen and (max-width: 600px){    
+    .feature-block{
+        margin-right: 5px;
+        margin-bottom: 10px;
+    }
+    .cta-001 .cta-inner h3{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .testimonials-area .testimonials-block{
+        padding-right: 0;
+    }
+    .testimonials-area .slider-pager{
+        display: none;
+    }
+    .bx-controls-direction{
+        display: none;
+    }
+    .cta-left-image .icon-box{
+        display: none;
+    }
+    .cta-right-content{
+        padding: 60px 20px;
+    }
+    .testimonials-block .inner-box{
+        padding: 50px 30px;
+    }
+    .service-section .service-text{
+        padding: 50px 30px;
+    }
+    .time-traking-box{
+        padding: 50px 20px;
+    }
+    .service-seven-content{
+        padding: 50px 20px;
+    }
+    .premium-service-block .content-box p br{
+        display: none;
+    }    
+}
+@media only screen and (max-width: 500px){
+    .time-traking-box .level-bar{
+        display: none;
+    }
+    .time-traking-box .tracking-step{
+        display: inline-block;
+    }
+    .time-traking-box .tracking-step li{
+        display: block;
+        width: 100%;
+        padding-left: 30px;
+    }
+    .time-traking-box .tracking-step li:before{
+        left: 0;
+        top: 5px;
+        margin: 0;
+    }    
+    .time-traking-box .tracking-step li:nth-child(2):before, 
+    .time-traking-box .tracking-step li:nth-child(3):before{
+        margin: 0;
+        left: 0;
+    }
+    .time-traking-box .tracking-step li:last-child:before{
+        left: 0;
+    }
+    .work-block-one .inner-box{
+        display: block;
+        text-align: center;
+        padding: 0;
+        max-width: 100%;
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    .work-block-one .inner-box .icon-box{
+        margin-right: 0;
+        margin-bottom: 60px;
+    }
+    .work-block-one .border-shape{
+        display: none;
+    }
+    .colmun:nth-child(3) .work-block-one{
+        margin-right: 0;
+    }
+    .about-image-colmun .add-text-two{
+        display: none;
+    }
+    .banner-home-five .content-box .sub-title{
+        margin-bottom: 0px;
+    }
+    .testimonial-block-eight p{
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .work-block-two .inner-box{
+        display: block;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+    .work-block-two .content-box{
+        padding-top: 55px;
+    }
+}
+@media only screen and (max-width: 450px){
+    .testimonial-section-three .bx-viewport{
+        height: 670px !important;
+    }
+    .testimonial-section-three .thumb-box li{
+        display: block;
+        margin-bottom: 10px;
+    }
+    .accordion-box .accordion .acc-btn{
+        padding-left: 20px;
+        padding-right: 60px;
+    }
+    .faq-section{
+        padding-bottom: 80px;
+    }
+    .service-block-004 .lower-content{
+        padding: 0px 20px;
+    }
+    .service-block-004:hover .lower-content{
+        padding: 0px 20px 30px;
+    }
+    .feature-block-six i{
+        padding-right: 20px;
+    }
+    .section-title .title {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .cta-section-03 .logo{
+        max-width: 280px;
+    }
+    .feature-banner h4 a{
+        font-size: 24px;
+        line-height: 34px;
+    }
+}
+@media only screen and (max-width: 400px){
+    .sec-padd-150{
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .team-block-two .inner-box .image-box{
+        max-width: 160px;
+    }    
+    .location-map .info-box{
+        padding: 30px;
+        max-width: 260px;
+    }
+    .team-block-two .title a{
+        font-size: 20px;
+    }
+}
