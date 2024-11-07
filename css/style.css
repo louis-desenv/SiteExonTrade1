@@ -1480,7 +1480,7 @@
     -webkit-transition:all 700ms ease;
     -ms-transition:all 700ms ease;
     -o-transition:all 700ms ease;
-    background: linear-gradient(0.02deg, rgba(27, 67, 196, 0.85) 26.22%, rgba(196, 196, 196, 0) 91.23%);
+    background: linear-gradient(0.02deg, rgba(11, 20, 47, 0.85) 26.22%, rgba(196, 196, 196, 0) 91.23%);
 }
 .service-block-002:hover .image-box:before{
     transform: scale(1);
