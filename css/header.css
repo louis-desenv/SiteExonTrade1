@@ -220,10 +220,10 @@
     border-top-color: rgba(255, 255, 255, 0.5); 
 }  
 .handle-preloader{
-    background: #122243;
+    background: #1d1d1d;
 }  
 .preloader-close{
-    color: #122243;
+    color: #1d1d1d;
 }
 /* AnimaciÃ³n del preloader */
 @keyframes spinner {
