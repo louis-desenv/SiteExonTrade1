@@ -369,7 +369,7 @@
     top: 0px;
     width: 100%;
     z-index: 999;
-    background-color: var(--white-color);
+    background-color:#1d1d1d;
     border-bottom: 1px solid rgb(242 242 242 / 20%);
     box-shadow: -1px -4px 14px 0px rgb(86 86 86 / 50%);
     transition: all 500ms ease;
@@ -726,7 +726,7 @@
 
 /** Sticky Header Menu **/
 .sticky-header .main-menu .navigation > li > a{
-    color: var(--block-color-one);
+    color: var(--white-color);
 }
 .sticky-header .main-menu .navigation > li:hover > a,
 .sticky-header .main-menu .navigation > li.current > a{

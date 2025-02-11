@@ -484,7 +484,7 @@ img {
     display: inline-block;    
 }
 .contact-info-two li:nth-child(1) i{
-    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
 }
 .contact-info-two li:nth-child(2) i{
     background-color: var(--secondary-color);
